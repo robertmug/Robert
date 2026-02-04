@@ -1,0 +1,9 @@
+
+{
+  "name": "Mugisha Robert | Portfolio",
+  "description": "Professional Portfolio of Mugisha Robert, L5 Software Developer at GSNDP CYANIKA. Powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
